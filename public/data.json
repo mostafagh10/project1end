@@ -1,0 +1,145 @@
+{
+    "about" : [
+        {
+            "id" : 1,
+            "title": "Fully Customizible",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 2,
+            "title": "Awesome Features",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "title": "Fully Responsive",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "works" : [
+        {
+            "id":1,
+            "image": "work1.jpg"
+        },
+        {
+            "id":2,
+            "image": "work2.jpg"
+        },
+        {
+            "id":3,
+            "image": "work3.jpg"
+        },
+        {
+            "id":4,
+            "image": "work4.jpg"
+        },
+        {
+            "id":5,
+            "image": "work5.jpg"
+        },
+        {
+            "id":6,
+            "image": "work6.jpg"
+        }
+    ] ,
+    "price" : [
+        {
+            "id": 1,
+            "plan" : "Basic",
+            "price" : "9"
+        },
+        {
+            "id": 2,
+            "plan" : "Silver",
+            "price" : "19"
+        },
+        {
+            "id": 3,
+            "plan" : "Gold",
+            "price" : "39"
+        }
+    ] ,
+    "team" : [
+        {
+            "id":1,
+            "image": "team1.jpg"
+        },
+        {
+            "id":2,
+            "image": "team2.jpg"
+        },
+        {
+            "id":3,
+            "image": "team3.jpg"
+        }
+    ],
+    "contact" : [
+        {
+            "id": 1,
+            "type" : "phone",
+            "details" : "512-421-3940",
+            "icon" : "phone"
+        },
+        {
+            "id": 2,
+            "type" : "email",
+            "details" : "email@support.com",
+            "icon" : "envelope"
+        },
+        {
+            "id": 3,
+            "type" : "address",
+            "details" : "1739 Bubby Drive",
+            "icon" : "map-marker-alt"
+        }
+    ],
+    "services" : [
+        {
+            "id": 1,
+            "type" : "App development",
+            "number" : "512-421-3940",
+            "des" : "Happy clients",
+            "icon" : "users",
+            "icon2" : "gem"
+        },
+        {
+            "id": 2,
+            "type" : "Creative Idea",
+            "number" : "451K",
+            "des" : "Cups of Coffee",
+            "icon" : "trophy",
+            "icon2" : "rocket"
+        },
+        {
+            "id": 3,
+            "type" : "Graphic Design",
+            "number" : "400",
+            "des" : "Awards won",
+            "icon" : "coffee",
+            "icon2" : "cogs"
+        },
+        {
+            "id": 4,
+            "type" : "Marketing",
+            "number" : "45",
+            "des" : "Projects completed",
+            "icon" : "file",
+            "icon2" : "gem"
+        },
+        {
+            "id": 5,
+            "type" : "Awesome Support",
+            "number" : "0",
+            "des" : "",
+            "icon2" : "flask"
+        },
+        {
+            "id": 6,
+            "type" : "Brand Design",
+            "number" : "0",
+            "des" : "",
+            "icon2" : "pencil-alt"
+        }
+    ] 
+}

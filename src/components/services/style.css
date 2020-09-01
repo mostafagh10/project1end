@@ -1,0 +1,26 @@
+.one{
+    margin-top: 140px;
+    text-align: center;
+}
+#service1{
+    text-align: center;
+    padding:40px;
+    height: 300px;
+    width: 350px;
+    margin: auto;
+    margin-top: 10px;
+}
+#service2{
+    border: none;
+    color: rgb(245, 248, 245);
+    background-color: rgb(12, 12, 12);
+}
+#service3{
+    width: 100%;
+    background-color: rgb(12, 12, 12);
+}
+#service4,#service5{
+    font-size:50px;
+    margin: auto;
+    color: rgb(75, 131, 156);
+}

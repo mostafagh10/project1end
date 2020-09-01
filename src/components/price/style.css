@@ -1,0 +1,46 @@
+.one{
+    margin-top: 140px;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    padding:40px;
+}
+.twoo{
+    text-align: center;
+    border: 1px solid rgb(25, 125, 240);
+    border-radius: 50%;
+    height: 180px;
+    padding: 40px;
+    width: 210px;
+    margin: auto;
+}
+.three{
+    width: 200px;
+    height: 70px;
+    background: none;
+    font-size: 20px;
+    margin: auto;
+    color: white;
+}
+span{
+    font-size: 60px;
+    font-weight: bold;
+}
+#pricebigover{
+    position: relative;
+    color: black;
+}
+.priceover{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    height: 100%;
+}
+.priceover2{
+    position: relative;
+    color: white;
+}

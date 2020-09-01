@@ -1,0 +1,18 @@
+.one{
+    margin-top: 140px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card{
+    text-align: center;
+    padding:40px;
+}
+.two{
+    color:rgb(75, 131, 156)
+}
+.two:hover{
+    cursor: pointer;
+}
+.about1{
+    margin-top: 10px;
+}
